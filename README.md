@@ -44,7 +44,7 @@ Here are the number on critical care beds per capita
 
 [stat-ccb]:https://www.statista.com/chart/21105/number-of-critical-care-beds-per-100000-inhabitants/
 
-<img src="/assets/2020-coronavirus/static-imgs/critical-care-beds.jpg" width="60%"
+<img src="static-imgs/critical-care-beds.jpg" width="60%"
 class="center" />
 
 The Wikipedia page on "[2020 coronavirus pandemic in the United States]" also
@@ -134,3 +134,8 @@ limit = ratio * (pop / italy_pop) * italy_cases_breakdown
 [List of OECD countries by hospital beds]:https://en.wikipedia.org/wiki/List_of_OECD_countries_by_hospital_beds
 [who-pandemic]:https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020
 [us-ntl-emergency]:https://en.wikipedia.org/wiki/List_of_national_emergencies_in_the_United_States
+[nyc-subway]:https://toddwschneider.com/dashboards/nyc-subway-turnstiles/
+
+[NYTimes on March 12th]:https://www.nytimes.com/2020/03/12/world/europe/12italy-coronavirus-health-care.html
+[Bloomberg on March 10th]:https://www.bloomberg.com/news/articles/2020-03-10/virus-spread-pushes-italian-hospitals-toward-breaking-point
+[Todd Schneider]:https://toddwschneider.com
