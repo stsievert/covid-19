@@ -20,7 +20,7 @@ widget: false
 
 <p>Infection rates in select US states:<p>
 <img src="us-states-hist.png" width="90%" class="center" />
-<img src="us-states-hist-more.svg" width="90%" class="center" />
+<img src="us-states-hist-more.png" width="90%" class="center" />
 
 <p>Infection rates in the US without NY:<p>
 <img src="us-wo-ny.png" width="80%" class="center" />
