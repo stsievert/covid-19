@@ -31,3 +31,6 @@ widget: false
 
 <p>NYC subway rides:<p>
 <img src="nyc-subway-rides.png" width="60%" class="center" />
+
+<p>NYC daily observations:<p>
+<img src="nyc.png" width="60%" class="center" />
