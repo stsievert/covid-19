@@ -20,6 +20,12 @@ Data sources include the following:
   data][mta-subway]. I have used the parsing by [Todd Schneider] at [New York
   City Subway Usage Dashboard][nyc-subway], available through the JSON API he
   developed.
+* NYC's Dept. of Health's data on coronavirus, available at [NYC DOH:
+  COVID-19][nyc-doh] and at their Github repo
+  [nychealth/coronavirus-data][nyc-gh]
+
+[nyc-doh]:https://www1.nyc.gov/site/doh/covid/covid-19-data.page
+[nyc-gh]:https://github.com/nychealth/coronavirus-data
 
 COVID-19 kills older people more often. 99% of the deaths are for people that
 are 50 or older. That's not to say younger people who contract the virus does
