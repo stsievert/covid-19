@@ -23,7 +23,10 @@ Data sources include the following:
 * NYC's Dept. of Health's data on coronavirus, available at [NYC DOH:
   COVID-19][nyc-doh] and at their Github repo
   [nychealth/coronavirus-data][nyc-gh]
+* MN's Dept. of Heath's data on COVID-19, available at the their [Situation
+  Update for COVID-19][mn-doh]
 
+[mn-doh]:https://www.health.state.mn.us/diseases/coronavirus/situation.html
 [nyc-doh]:https://www1.nyc.gov/site/doh/covid/covid-19-data.page
 [nyc-gh]:https://github.com/nychealth/coronavirus-data
 

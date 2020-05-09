@@ -34,3 +34,6 @@ widget: false
 
 <p>NYC daily observations:<p>
 <img src="nyc.png" width="60%" class="center" />
+
+<p>MN COVID-19:<p>
+<img src="mn.png" width="60%" class="center" />
